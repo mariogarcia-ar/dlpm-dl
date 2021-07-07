@@ -7,3 +7,10 @@ Como parte del curso de Deep Learning en la Practica 2021 es requerido como etap
     - Arquitectura de la Solución
     - Desafíos Enfrentados
     - Resultados Obtenidos
+
+# Google Colab
+Para sincronizar los cambios realizados en google colab se debe de ejecutar el sig. comando.
+
+```bash
+python gdrive_download.py
+```
